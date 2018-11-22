@@ -1,0 +1,1 @@
+http://blog.mozillagujarat.org/
