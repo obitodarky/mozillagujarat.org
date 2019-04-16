@@ -25,3 +25,8 @@ body {
 .iconed-list .icon img#blog-image {
     max-height: 24px;
 }
+
+.fa-steam-square{
+
+    color: blue;
+}
